@@ -40,7 +40,7 @@ const menuCategories = [
         name: "Steamed Rice",
         price: "25.00",
         description: "With crispy chicken, grilled pork shoulder or grilled pork chop with fish sauce.",
-        image: null
+        image: "/New folder (2)/The-Best-Food-In-Vietnam-Bun-Thit.jpg"
       }
     ]
   }
